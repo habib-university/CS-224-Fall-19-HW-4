@@ -29,7 +29,9 @@ You have to design a game with the following requirements
 
 ## Submission
 
-The __team lead__ must submit:
+NOTE: Follow your section instructor's guideline on submission and deadline.
+
+Generally, the __team lead__ must submit:
 
 - A class diagram of your game code drawn using any available tool, e.g. https://www.umlet.com/.
     - The diagram must be valid UML 2.0 and must show all class relations.
@@ -46,7 +48,7 @@ The __team lead__ must submit:
     - The names of the team members including the team lead
     - A number for each team member including the team lead that indicates the member's relative contribution to this submission. The numbers must add up to 100.
 
-_Deadline_: 18h on Monday, 18 November on [`GitHub Classroom`](https://classroom.github.com/a/KNldWMsE) by the __team lead only__.
+_Deadline_: as communicated by your section instructor.
 
 ## Grading
 
